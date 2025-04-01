@@ -1,3 +1,5 @@
+Вот код:
+
 def read_recipe(file_name):
     cook_book = {}
     
